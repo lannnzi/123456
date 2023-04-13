@@ -1,0 +1,16 @@
+.\objects\hal_oled.o: ..\OLED\hal_oled.c
+.\objects\hal_oled.o: ..\User\stm32F10x.h
+.\objects\hal_oled.o: ..\CORE\core_cm3.h
+.\objects\hal_oled.o: D:\Keilv5\KEILv5\MDK\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hal_oled.o: ..\User\system_stm32f10x.h
+.\objects\hal_oled.o: ..\User\stm32f10x_conf.h
+.\objects\hal_oled.o: ..\Libraries\inc\stm32f10x_dma.h
+.\objects\hal_oled.o: ..\User\stm32f10x.h
+.\objects\hal_oled.o: ..\Libraries\inc\stm32f10x_gpio.h
+.\objects\hal_oled.o: ..\Libraries\inc\stm32f10x_i2c.h
+.\objects\hal_oled.o: ..\Libraries\inc\stm32f10x_rcc.h
+.\objects\hal_oled.o: ..\Libraries\inc\stm32f10x_spi.h
+.\objects\hal_oled.o: ..\Libraries\inc\stm32f10x_tim.h
+.\objects\hal_oled.o: ..\Libraries\inc\stm32f10x_usart.h
+.\objects\hal_oled.o: ..\Libraries\inc\misc.h
+.\objects\hal_oled.o: ..\OLED\hal_oled.h

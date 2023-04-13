@@ -1,0 +1,17 @@
+.\objects\hal_key.o: ..\Hal\hal_key.c
+.\objects\hal_key.o: ..\User\stm32F10x.h
+.\objects\hal_key.o: ..\CORE\core_cm3.h
+.\objects\hal_key.o: D:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\hal_key.o: ..\User\system_stm32f10x.h
+.\objects\hal_key.o: ..\User\stm32f10x_conf.h
+.\objects\hal_key.o: ..\Libraries\inc\stm32f10x_adc.h
+.\objects\hal_key.o: ..\User\stm32f10x.h
+.\objects\hal_key.o: ..\Libraries\inc\stm32f10x_dma.h
+.\objects\hal_key.o: ..\Libraries\inc\stm32f10x_gpio.h
+.\objects\hal_key.o: ..\Libraries\inc\stm32f10x_i2c.h
+.\objects\hal_key.o: ..\Libraries\inc\stm32f10x_rcc.h
+.\objects\hal_key.o: ..\Libraries\inc\stm32f10x_spi.h
+.\objects\hal_key.o: ..\Libraries\inc\stm32f10x_tim.h
+.\objects\hal_key.o: ..\Libraries\inc\stm32f10x_usart.h
+.\objects\hal_key.o: ..\Libraries\inc\misc.h
+.\objects\hal_key.o: ..\Hal\hal_key.h
